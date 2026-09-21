@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "271ae7f9e68dc2c81b7f0dc2",
+  "owner": "enmxfjqtkw",
+  "repo": "page-22248a9d55436e70c8eb66f7",
+  "title": "棉花云(kapok)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22248a9d55436e70c8eb66f7",
+      "a": "棉花云(kapok)",
+      "b": "2027最新官网",
+      "entity": "棉花云(kapok)",
+      "brand": "棉花云(kapok)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f447f3b3bb309ddda94a7021d1a0f64cf0103db951cb29552ff891b296044349",
+      "content": {
+        "primary_entity": "棉花云(kapok)",
+        "keyword1": "棉花云(kapok)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应订阅客户端载入配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量预期选定套餐，再按客户端文档完成订阅导入。",
+          "AI_CLOSING_TITLE": "开始配置棉花云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖 3 台、5 台和 20 台设备并发需求，流量从每月 100GB 到 1000GB 不等，可按月或按年支付。旗舰版针对游戏与流媒体场景提供专线节点优化，团队版则面向多设备与企业路由需求提供更高带宽与专属支持。",
+          "AI_FEATURES_INTRO": "围绕订阅档位、在线设备数与付费周期整理选购依据。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台以内设备，每月 100GB 流量满足浏览与轻量视频需求。",
+          "AI_FEATURE_TEXT_2": "旗舰版覆盖 5 台设备，每月 300GB 并优先接入流媒体与游戏优化节点。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与每月 1000GB 流量，适合多人协作与定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量日常",
+          "AI_FEATURE_TITLE_2": "综合场景",
+          "AI_FEATURE_TITLE_3": "多设备团队",
+          "AI_GUIDE_INTRO": "从选套餐到客户端导入订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "棉花云(kapok)提供按月或按年订阅的海外加速服务，依据设备数量与流量需求划分基础版、旗舰版和团队版，用户可结合自身使用场景对比后选择合适档位。",
+          "AI_HERO_SUBTITLE": "棉花云海外加速器套餐指南",
+          "AI_HIGHLIGHT_1": "三档订阅按设备数划分",
+          "AI_HIGHLIGHT_2": "年付方案节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含专线优化节点",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "订阅方案对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，在基础版、旗舰版、团队版中选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐列出的设备上限与节点类型，确认是否满足流媒体或游戏场景要求。",
+          "AI_STEP_TEXT_3": "参考所选客户端的配置文档，将订阅链接导入对应软件并完成连接测试。",
+          "AI_STEP_TITLE_1": "选定订阅档位",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "棉花云订阅配置指引",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "每月 100GB 流量、支持 3 台设备同时在线，适合手机与电脑少量终端日常使用。",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、支持 5 台设备，增加全节点原生流媒体解锁与 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_4": "按年付能节省多少？",
+          "AI_FAQ_ANSWER_4": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比按月支付更优惠。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中按照文档导入订阅链接，选择节点后即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "szbfa.cn",
+    "host": "szbfa.cn"
+  },
+  "file_hashes": {
+    "index.html": "e256a6a3c6440ded398339fc823b6ebdee605c43725f811bae5ab0b9ef79789a",
+    "sitemap.xml": "2122a4778d20169038f4f0e32822df8780188df026fef5e7751abbdc00139a70",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6d920819977198d5bcf18d3da77e1ab2a31ee96483243d89226fcf979ef09894",
+    "robots.txt": "b57b3bcb8906990a2890fac628db5548bd50692a28b6634e1f054a6725f2de65",
+    "540462dd5e4d840c8c85c414f06a391e.txt": "6328ba372edef4c5bcccc3568f7e21896257b30ec7a30149613229675b250df6"
+  },
+  "revision": "2d65da98eb51ef8fa75371f7ed0d72f365841071186d1cd5fca3df2eecd0d829"
+}

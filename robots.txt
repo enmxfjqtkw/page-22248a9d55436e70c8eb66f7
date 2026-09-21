@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://szbfa.cn/sitemap.xml
